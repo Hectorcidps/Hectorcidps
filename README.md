@@ -6,12 +6,12 @@ width="1200"
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/hector-cid-del-prado/" target='blank' style="margin: 0 20px;">
+  <a href="https://www.linkedin.com/in/hector-cid-del-prado/" target="_blank" style="margin: 0 20px;">
     <img decoding="async" 
          src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
          alt="LinkedIn Badge" />
   </a>
-  <a href="https://github.com/Hectorcidps/Portfolio_DA" target='blank'style="margin: 0 20px;">
+  <a href="https://github.com/Hectorcidps/Portfolio_DA" target="_blank"style="margin: 0 20px;">
     <img decoding="async" 
          src="https://img.shields.io/badge/Repositorio%20de%20Proyectos-GitHub-blue?style=for-the-badge" 
          alt="GitHub Portfolio Badge" />
