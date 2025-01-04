@@ -30,7 +30,7 @@ width="1200"
 Estoy convencido que los datos estan en todas partes, esto me apasiona tanto que decidí hacer una transición de carrera 
 <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-* Actualmente estoy por concluir un bootcamp en tecnología de TripleTen, donde fortaleci mi pensamiento analítico y mi pasión por la programación aumento 🔝
+* Actualmente concluí un bootcamp en tecnología de TripleTen, donde fortaleci mi pensamiento analítico y mi pasión por la programación aumento 🔝
 * :seedling: Estoy estudiando :blue_book: y practicando :computer: los lenguajes SQL y Python, sin dejar a un lado las valiosas herramientas de visualización como Power BI
 * 💓 Me encanta la decisión que tomé, por lo cual mantengo un aprendizaje continuo, para adaptarme a nuevas tecnologías y tendencias del mercado
 
